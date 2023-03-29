@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+.quien-soy .textoqs {
+    margin: 10px 20px;
+    font-family: verdana, arial, helvetica;
+    line-height: 1em;
+    word-spacing: 0.5em;
+    font-size: 150%; }
+
+.txh1{
+    text-align: center;
+    font-family: 'Alfa Slab One', cursive;
+    padding:1rem
+}
+
+.clase-parrafo{
+    margin: 10px 20px;
+    font-family: verdana, arial, helvetica;
+    line-height: 1em;
+    word-spacing: 0.5em;
+    font-size: 150%;
+
+}
+
+.h2-class{
+    font-family: 'Alfa Slab One', cursive;
+    color: green;
+    text-align:center;
+}
+.container{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.carousel{
+    height: 700px;
+    width: 700px;
+
+}
+
+
+.iframe{
+    height: 700px;
+    width: 1200px;
+
+}
+
+.boton{
+    margin: 10px 20px;
+    font-family: verdana, arial, helvetica;
+    font-size: large;
+    color: green;
+
+}
+  
+  
+
+  
+ 
